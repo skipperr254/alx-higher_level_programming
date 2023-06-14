@@ -1,1 +1,2 @@
-# 0x12-javascript-warm_up
+# 0x12 javascript basics
+Getting started with JS
