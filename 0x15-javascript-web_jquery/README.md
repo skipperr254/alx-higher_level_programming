@@ -1,1 +1,1 @@
-# Javascript - Web JQuery
+# Javascript Web JQuery
